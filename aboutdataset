@@ -1,0 +1,7 @@
+# About Dataset
+
+A team led by public policy professor Omar Asensio used a field experiment to collect data on 3,395 electric vehicle charging sessions between November 2014 and October 2015. The dataset “contains sessions from 85 EV drivers with repeat usage at 105 stations across 25 sites at a workplace charging program”; it indicates the date and length of each session, total energy used, cost, and more.
+
+Source: 
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NFPQLW
+https://www.kaggle.com/datasets/michaelbryantds/electric-vehicle-charging-dataset
